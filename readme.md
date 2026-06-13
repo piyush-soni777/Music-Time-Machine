@@ -1,6 +1,6 @@
 #  Create a Spotify Playlist Using The Musical Time Machine
 ## Concepts Practised
-_- Finding and Selecting Particular Elements with BeautifulSoup_
+_- Finding and Selecting Particular Elements with BeautifulSoup_ <br>
 _- Using API Keys_
 _- Spotify Authrorization with the Spotipy module_
 _- Using a Redirect URI_
