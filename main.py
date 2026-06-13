@@ -9,7 +9,7 @@ from spotipy.oauth2 import SpotifyOAuth
 load_dotenv(".env")
 CLIENT_ID = os.getenv("CLIENT_ID")
 CLIENT_SECRET_ID = os.getenv("CLIENT_SECRET_ID")
-# input
+# input from the user
 date = input("Which day do you want to travel to? Type the date in this format: YYYY-MM-DD: ")
 
 URL = f"https://www.billboard.com/charts/hot-100/{date}/"
